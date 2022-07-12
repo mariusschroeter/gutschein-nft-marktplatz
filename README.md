@@ -14,7 +14,8 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 ### Projekt lokal klonen
 
 Das Repository lokal klonen
-> git clone https://github.com/mariusschroeter/gutschein-nft-marktplatz \n
+> git clone https://github.com/mariusschroeter/gutschein-nft-marktplatz
+
 > npm install
 
 ### Funktionalität testen
