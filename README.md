@@ -4,29 +4,21 @@ Im Rahmen meiner Bachelorarbeit habe ich folgenden NFT Marktplatz programmiert:
 
 https://youtu.be/sJQ6pgSlcDA
 
-## Inhalte der Bachelorarbeit reproduzieren:
+## Lokal ausprobieren
 
-### Metamask installieren und Account erstellen
-
-Metamask Browser Extension:
+1. Metamask Browser Extension:
 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
-### Projekt lokal klonen
+2. Den Code klonen / herunterladen
+3. npm install
+4. npm hardhat test
+5. npx hardhat node -> Ausgabe gibt Test-Accounts mit 10 000 Ether
+6. privaten Schlüssel eines Accounts kopieren und bei Metamask importieren
+6. npm run hardhat-localhost
+7. npm run dev
 
-Das Repository lokal klonen
-> git clone https://github.com/mariusschroeter/gutschein-nft-marktplatz
-
-> npm install
-
-### Funktionalität testen
-
-> npx hardhat test
-
-### Lokale Blockchain erstellen und Test-Accounts (10000 Eth) erhalten
-
-> npx hardhat node
-
-privaten Schlüssel eines Accounts kopieren und bei Metamask importieren
+Bei Problemen hilft die Dokumentation von hardhat 
+https://hardhat.org/tutorial
 
 ### Hardhat Konfigurationsdatei einsehen
 
@@ -34,14 +26,4 @@ hardhat.config.js hat die Informationen über die zu verwendeten Netzwerke
 
 ### Smart Contracts finden
 
-Unter Contracts findet man den NFT Contract und den Marktplatz Contract.
-
-### Smart Contracts deployen
-
-> npm run hardhat-localhost
-
-### Plattform lokal starten
-
-> npm run dev
-
-Weiteres Vorgehen sollte durch das oben verlinkte Video deutlich werden.
+Unter Contracts findet man den NFT Contract (NFT.sol) und den Marktplatz Contract (NFTMarketplace.sol)
