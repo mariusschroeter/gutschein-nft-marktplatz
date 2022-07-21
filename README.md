@@ -11,7 +11,7 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 
 2. Den Code klonen / herunterladen
 3. npm install
-4. npm hardhat test
+4. npx hardhat test
 5. npx hardhat node -> Ausgabe gibt Test-Accounts mit 10 000 Ether
 6. privaten Schlüssel eines Accounts kopieren und bei Metamask importieren
 6. npm run hardhat-localhost -> Ausgabe gibt NFT-Adresse und Marktplatz-Adresse
