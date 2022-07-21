@@ -6,7 +6,7 @@ https://youtu.be/sJQ6pgSlcDA
 
 ## Lokal ausprobieren
 
-1. Metamask Browser Extension:
+1. Metamask Browser Extension installieren und gegebenenfalls eine Wallet erstellen:
 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 2. Den Code klonen / herunterladen
