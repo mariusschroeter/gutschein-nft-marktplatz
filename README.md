@@ -4,10 +4,12 @@ Im Rahmen meiner Bachelorarbeit habe ich folgenden NFT Marktplatz programmiert:
 
 https://youtu.be/sJQ6pgSlcDA
 
-## Lokal ausprobieren
+## Lokal ausprobieren (Voraussetung Node.js v14, v16)
 
 1. Metamask Browser Extension installieren und gegebenenfalls eine Wallet erstellen:
 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+
 
 2. Den Code klonen / herunterladen
 3. **npm** install
