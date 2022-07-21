@@ -17,6 +17,7 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 6. In einem neuen Terminal: npm run hardhat-localhost -> Ausgabe gibt NFT-Adresse und Marktplatz-Adresse
 7. Gegebenenfalls diese Adressen in der config.js Datei erstetzen (falls nicht dieselben Adressen wie Ausgabe aus 6.)
 8. npm run dev
+9. Falls das Minten von Token nicht funktioniert: Metamask Account zurücksetzen (Einstellungen -> Erweitert -> Account zurücksetzen)
 
 Bei Problemen hilft die Dokumentation von hardhat 
 https://hardhat.org/tutorial
