@@ -15,7 +15,7 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 5. npx hardhat node -> Ausgabe gibt Test-Accounts mit 10 000 Ether
 6. privaten Schlüssel eines Accounts kopieren und bei Metamask importieren
 6. In einem neuen Terminal: npm run hardhat-localhost -> Ausgabe gibt NFT-Adresse und Marktplatz-Adresse
-7. Diese Adressen in der config.js Datei erstetzen
+7. Gegebenenfalls diese Adressen in der config.js Datei erstetzen (falls nicht dieselben Adressen wie Ausgabe aus 6.)
 8. npm run dev
 
 Bei Problemen hilft die Dokumentation von hardhat 
